@@ -1,0 +1,65 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "title": "TSX Trucking Incorporated",
+      "content": "Number 1",
+      "drivers": [
+        {
+          "id": 1,
+          "name": "Alex Merer",
+          "license": true
+        },
+        {
+          "id": 2,
+          "name": "John Walker",
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Trucking Made Easy Incorporated",
+      "content": "Wise choice",
+      "drivers": [
+        {
+          "id": 1,
+          "name": "Danny Dans",
+          "license": true
+        },
+        {
+          "id": 2,
+          "name": "Elena Menendez",
+          "license": true
+        },
+        {
+          "id": 3,
+          "name": "Carlos Gutiera",
+          "license": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "ABC Trucking Company",
+      "content": "Quality service",
+      "drivers": [
+        {
+          "id": 1,
+          "name": "Michael Smith",
+          "license": true
+        },
+        {
+          "id": 2,
+          "name": "Emily Johnson",
+          "license": true
+        },
+        {
+          "id": 3,
+          "name": "Daniel Williams",
+          "license": false
+        }
+      ]
+    }
+  ]
+}
